@@ -1,4 +1,4 @@
-from takmanager import db
+from taskmanager import db
 
 class Category(db.Model):
 #schema for the Categor model
